@@ -1,0 +1,25 @@
+.icon-circle {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eee;
+  }
+  
+  .icon-img {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .blue { background-color: #4169e1; }
+  .yellow { background-color: #ffc107; }
+  .cyan { background-color: #17c1e8; }
+  .red { background-color: #ff6b6b; }
+  
+  .underline-highlight {
+    border-bottom: 4px solid #4169e1;
+    display: inline-block;
+  }
+  
